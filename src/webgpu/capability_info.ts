@@ -1,5 +1,5 @@
 // MAINTENANCE_TODO: The generated Typedoc for this file is hard to navigate because it's
-// alphabetized. Consider using namespaces or renames to fix this?
+// alphabetized. Consider using namespaces or renames to fix this? 
 
 /* eslint-disable no-sparse-arrays */
 
